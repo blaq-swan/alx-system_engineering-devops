@@ -23,5 +23,5 @@ General
 ____
 
 
-## Example Output
-![header.png](https://boostnote.io/api/teams/56EwjVYB8/files/3458ba728f679a784f62bcc0d23772598736ae2d54ee02a71fca9da5db18ecfd-header.png)
+
+
