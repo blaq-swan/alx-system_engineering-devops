@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod ag-rwx,o+rwx hello
