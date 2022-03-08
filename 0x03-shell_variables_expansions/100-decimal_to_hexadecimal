@@ -1,2 +1,2 @@
-#!/bin/bah
+#!/bin/bash
 print "obase=16; $a" | bc
