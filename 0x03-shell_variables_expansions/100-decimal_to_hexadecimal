@@ -1,0 +1,2 @@
+#!/bin/bah
+print "obase=16; $a" | bc
