@@ -9,6 +9,6 @@ file_line {'password auth'
 
 file_line {'set identity file'
 	path => '/etc/ssh/ssh_config',
-	match => 'IdentityFile',
+	match => '^IdentityFile',
 	line => 'IdentityFile ~/.ssh/school',
 }
